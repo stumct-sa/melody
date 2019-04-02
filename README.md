@@ -4,7 +4,8 @@
 [![Coverage Status](https://img.shields.io/coveralls/olahol/melody.svg?style=flat)](https://coveralls.io/r/olahol/melody)
 [![GoDoc](https://godoc.org/github.com/olahol/melody?status.svg)](https://godoc.org/github.com/olahol/melody)
 
-> :notes: This is a FORK. It was created to support concurrent session keys and Go Modules.
+> :warning: This is a FORK. It was created to support concurrent session keys and Go Modules.
+
 > :notes: Minimalist websocket framework for Go.
 
 Melody is websocket framework based on [github.com/gorilla/websocket](https://github.com/gorilla/websocket)
