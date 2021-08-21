@@ -21,7 +21,7 @@ your way so you can write real-time apps. Features include:
 ## Install
 
 ```bash
-go get github.com/gabstv/melody
+go get github.com/stumct-sa/melody
 ```
 
 ## [Example: chat](https://github.com/olahol/melody/tree/master/examples/chat)
@@ -34,7 +34,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/gabstv/melody"
+	"github.com/stumct-sa/melody"
 	"net/http"
 )
 
@@ -66,7 +66,7 @@ import (
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/engine/standard"
 	"github.com/labstack/echo/middleware"
-	"github.com/gabstv/melody"
+	"github.com/stumct-sa/melody"
 	"net/http"
 )
 
@@ -104,7 +104,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/gabstv/melody"
+	"github.com/stumct-sa/melody"
 	"net/http"
 	"strconv"
 	"strings"
@@ -166,7 +166,7 @@ func main() {
 
 ### [More examples](https://github.com/olahol/melody/tree/master/examples)
 
-## [Documentation](https://godoc.org/github.com/gabstv/melody)
+## [Documentation](https://godoc.org/github.com/stumct-sa/melody)
 
 ## Contributors
 
